@@ -16,7 +16,7 @@ To log in use following:
 https://abra-home-assignment/messeages -> 
 view all messages as a receiver or as a sender of the logged in user.
 
-http://127.0.0.1:8000/messeages/{:id} ->
+https://abra-home-assignment/messeages/{:id} ->
 going to message details, mark message as read, allow to delete the message
 
 https://abra-home-assignment/messeages/unread ->
